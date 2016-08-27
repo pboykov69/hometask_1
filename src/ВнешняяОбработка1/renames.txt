@@ -2,6 +2,8 @@
 cf993f53-07ff-45b3-81e4-c36ee2121568-->und\cf993f53-07ff-45b3-81e4-c36ee2121568
 cf993f53-07ff-45b3-81e4-c36ee2121568.0-->und\cf993f53-07ff-45b3-81e4-c36ee2121568.0
 copyinfo-->und\copyinfo
+de61d4d7-2e2b-4510-b622-0f37c3e0dca6.0\info-->und\de61d4d7-2e2b-4510-b622-0f37c3e0dca6.0\info
+de61d4d7-2e2b-4510-b622-0f37c3e0dca6.0\text-->ObjectModule.bsl
 root-->und\root
 version-->und\version
 versions-->und\versions
